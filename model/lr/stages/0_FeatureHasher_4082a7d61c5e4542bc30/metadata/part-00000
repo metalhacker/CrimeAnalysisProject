@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.FeatureHasher","timestamp":1532445675984,"sparkVersion":"2.3.1","uid":"FeatureHasher_4082a7d61c5e4542bc30","paramMap":{"numFeatures":262144,"outputCol":"features","inputCols":["beat","type","location","year","month","day","hour"]}}
