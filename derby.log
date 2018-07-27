@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Jul 24 14:32:31 CDT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0164-cdc7-595b-0000061e8980 
-on database directory /Users/tidesun/Documents/GitHub/CrimeAnalysisProject/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@c38882b 
+Thu Jul 26 16:54:24 CDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0164-d895-f8db-0000109adf28 
+on database directory /Users/tidesun/Documents/GitHub/CrimeAnalysisProject/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@70ce36ad 
 Loaded from file:/usr/local/Cellar/apache-spark/2.3.1/libexec/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_171-b11
